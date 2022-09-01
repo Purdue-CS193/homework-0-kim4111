@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8329054&assignment_repo_type=AssignmentRepo)
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
+I'm not exactly sure what this is or how to do this but just testing here.
+
 ## What is this assignment
 
 Throughout this homework you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homeworks. For this first one, we're focusing on getting you used to the process.
